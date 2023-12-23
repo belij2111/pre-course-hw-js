@@ -2,7 +2,7 @@ const words = ["яблоко", "банан", "апельсин", "манго", "
 
 let searchForAnItem = function (array) {
     if (array.indexOf("апельсин") !== -1) {
-        console.log("ypa!нашел");
+        console.log("Уpa!нашел");
     } else {
         console.log("Придется поискать в другом магазине…")
     }
